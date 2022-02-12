@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/cams/426/inselsberg_thumb_1.jpg"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "inselsberg_panomax.jpg",
+    "headers": {
+      "Content-Type": "application/octet-stream"
+    }
+  }
+}

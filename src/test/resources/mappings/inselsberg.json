@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/inselsberg/cam3m.jpg"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "inselsberg_normal.jpg",
+    "headers": {
+      "Content-Type": "application/octet-stream"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/inselsberg/data"
+  },
+  "response": {
+    "status": 200,
+    "body": "Erlebnis-Aussichtsturm \"Großer Inselsberg\" bis auf Weiteres wegen Corona geschlossen! // aktuelles Wetter - \"Großer Inselsberg\" 24.03.2021, 13:50 Uhr ++ Temperatur: 7.0 °C ++ Luftfeuchte: 69 % ++ Luftdruck: 1024.9 hPa ++ Luftdrucktendenz: fallend ++ Windgeschwindigkeit: 4.9 km/h ++ max. Wind: 12.9 km/h ++ Niederschlag der letzten Std.: 0.0 l/m² ++ Niederschlag der letzten 24 Std.: 0.0 l/m² ++ Skilift geschlossen",
+    "headers": {
+      "Content-Type": "text/plain"
+    }
+  }
+}
